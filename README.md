@@ -5,13 +5,13 @@
 ## 🚀 Features
 
 ### Core Features
-- **AI-Powered Recommendations**: Personalized side hustle suggestions using OpenAI
-- **Multi-Provider Authentication**: Sign in with Google, GitHub, or email/password
-- **Location-Based Matching**: Find opportunities suitable for your country and city
-- **Interest-Based Filtering**: Match opportunities to your skills and interests
-- **Time Commitment Flexibility**: Filter by available hours per week
-- **Community Insights**: View side hustles shared by other users
-- **Multi-Language Support**: Available in multiple languages including Amharic
+- **AI-Powered Recommendations**: Personalized side hustle suggestions using OpenAI.
+- **Multi-Provider Authentication**: Sign in with Google, GitHub, or email/password.
+- **Location-Based Matching**: Find opportunities suitable for your country and city.
+- **Interest-Based Filtering**: Match opportunities to your skills and interests.
+- **Time Commitment Flexibility**: Filter by available hours per week.
+- **Community Insights**: View side hustles shared by other users.
+- **Multi-Language Support**: Available in multiple languages including Amharic.
 
 ### User Experience
 - **Beautiful Modern UI**: Built with Tailwind CSS and Radix UI components
@@ -26,4 +26,4 @@
 - **Authentication**: NextAuth.js (Google, GitHub, Credentials)
 - **Database**: Prisma ORM with SQLite
 - **AI Integration**: OpenAI GPT-4
-- **Deployment**: Ready for Vercel deployment
+- **Deployment**: Vercel
